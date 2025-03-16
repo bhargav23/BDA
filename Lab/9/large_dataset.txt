@@ -1,0 +1,6 @@
+1001    Alice   25
+1002    Bob     30
+1003    Charlie 35
+1004    David   40
+1005    Eve     45
+1006    Frank   50
