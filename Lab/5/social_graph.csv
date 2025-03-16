@@ -1,6 +1,0 @@
-A    0    NONE    B,C
-B    INF  NONE    A,D,E
-C    INF  NONE    A,F
-D    INF  NONE    B
-E    INF  NONE    B,F
-F    INF  NONE    C,E
